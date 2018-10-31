@@ -25,4 +25,6 @@ JSON Web Token native library for PHP
 ## Thanks
 JWT for CodeIgniter: https://github.com/b3457m0d3/JWT-CodeIgniter
 
+https://segmentfault.com/a/1190000010444825
+
 
